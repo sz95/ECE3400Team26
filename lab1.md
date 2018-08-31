@@ -27,7 +27,7 @@ First, we ran the Blink sketch to verify that the Arduino board and internal LED
 Code:<br>
 ![Blink Code](Selection_002.png "Blink Code")
 
-Here's what the external LED looked like set up: <br>
+Here's what the external LED looked like set up: <br> (NEED NEW PIC)
 
 ![External LED](IMG_3192.JPG "External LED")
 
@@ -41,6 +41,7 @@ Serial output from potentiometer code:<br>
 ![Code](SerialMonitor Code.png "Serial Monitor Code")
 
 #### Modifications
+(NEED TO BE CHANGED)
 For the second half of this part, we modified the circuit and the code to do an analog to analog conversion so that the brightness of the LED varied linearly with the input voltage.
 ![Circuit Image](IMG_3195.JPG "Circuit Image")
 <br>
@@ -65,7 +66,7 @@ A video of the configuration in action can be found below <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RKeNJGQvyiw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-### Team 10 Does the Robot
+### Team 26 Does the Robot
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w1iMTuMnZG8?rel=0" frameborder="0" allowfullscreen></iframe>
