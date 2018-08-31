@@ -39,7 +39,10 @@ We will split up work depending on each person’s strengths but will also make 
 Everyone is expected to finish their assignments/deliverables a few days in advance. If any person feels they will not be able to finish their deliverable in time, they are to get in contact with the team immediately in to get help. It is not just the individual’s responsibility to get work done before the deadline, it also falls on the rest of the team to make sure that everyone fulfills the assignment assigned to them in time. <br>
 
 Strategies to fulfill these standards:<br>
-We will plan ahead of time, allocate enough time for meetings and tasks, and communicate constantly to ensure all members are on the same page. <br>
+	We will plan ahead of time, even setting deadlines to be a couple days earlier. All members are expected to adhere to all set deadlines.<br>
+	We will allocate enough time for meetings and tasks. During the meetings, all members must be focused, saving time for socializing outside of meeting times.<br>
+	Communication is key to ensure all members are on the same page. Should anything be falling behind, members should address them as soon as possible. All team members should give acknowledgement that they have received a message, otherwise it is assumed.<br>
+
 
 **Team Participation:**<br>
 Strategies to ensure cooperation and equal distribution of tasks:<br>
@@ -57,7 +60,7 @@ Everyone is expected to be on time, with two minute grace period. If anyone know
 Expected level of responsibility for fulfilling team assignments, timelines, and deadlines:<br>
 Everyone is expected to complete assignments a few days in advance. <br>
 Expected level of communication with other team members: <br>
-Respond as soon as possible. We will have regular check-ins a week. <br>
+Respond as soon as possible, within 24 hours. An explanation for a late response wil lbe expected. We will have regular check-ins weekly. <br>
 Expected level of commitment to team decisions and tasks: <br>
 We will have high level of commitment. <br>
 
