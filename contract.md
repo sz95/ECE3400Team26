@@ -14,26 +14,26 @@ Priya Kattappurath<br>
 Vini Tripathii<br>
 
 Team Procedures<br>
-Day, time, and place for regular team meetings:<br>
+**Meeting Agendas:**<br>
 5:30pm Monday, Duffield Atrium<br>
 
-Preferred method of communication in order to inform each other of team meetings, announcement, updates, reminders, problems:<br> 
+**Method of communication:**<br> 
 We use email and groupme.<br>
 
-Decision-making policy (by consensus? by majority vote?): <br>
+**Decision Making:**<br>
 	Majority Vote<br>
 
-Method for setting and following meeting agendas:<br>
+**Meeting agendas:**<br>
 	Every member of the team will take turns in setting agendas a day before each meeting. <br>
 	Each member will be notified with email and groupme. <br>
 	Group members will follow the agenda closely. <br>
 	To keep the team on track during a meeting, we will keep an eye on the clock. <br>
 
-Method of record keeping:<br>
+**Record Keeping:**<br>
 	We will take turns in recording and and disseminating minutes, based on who is the leader for that week. <br>
 	We will use Google Docs to keep track of all agendas and minutes. <br>
 
-Team Expectations<br>
+**Team Expectations:**<br>
 Work Quality: <br>
 Project standards (What is a realistic level of quality for team presentations, collaborative writing, individual research, preparation of drafts, peer reviews, etc.?):<br>
 We all want to do well so we'll hold each other to high qualities of work. Additionally, we will get work done early. <br>
