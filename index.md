@@ -1,8 +1,4 @@
-<head>
-    <title>Team 26</title>
-    <link rel="stylesheet" type="text/css" href="style/all.css" media="all"/>
-    <link rel="icon" href="RobotCar.jpg"> 
-</head>
+
 
 <!--<div class="menu">
   <a href="index.html" class="current">Home</a>
