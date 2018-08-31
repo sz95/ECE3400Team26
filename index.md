@@ -35,7 +35,7 @@ Albert Tsao <br>
 Nathalia Lie <br>
 
 
-![Earth, Wind and Wire](IMG_4980.jpg)
+![Earth, Wind and Wire]
 
 <!--<div style="text-align: center">
 <img alt="Earth, Wind and Wire" src="IMG_4980.jpg"/>
