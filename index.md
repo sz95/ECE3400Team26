@@ -20,7 +20,7 @@ We're Team 26, most likely the best team of 2018!
 
 This team is a part of The ECE 3400 Lab Section 402 at Cornell University.
 
-See how we're spending time on our [Team Minutes Page](Mnutes.md)
+See how we're spending time on our [Team Minutes Page](Minutes.md)
 
 
 ##### Members: <br>
@@ -37,7 +37,7 @@ Nathalia Lie <br>
 <img alt="Earth, Wind and Wire" src="IMG_4980.jpg"/>
 </div> -->
 
-The members of this group are bound by the [Team Contract](Contract.md).
+The members of this group are bound by the [Team Contract](contract.md).
 
 ## Website Sessions:
 
