@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+<head>
+    <title>Team 26</title>
+    <link rel="stylesheet" type="text/css" href="style/all.css" media="all"/>
+    <link rel="icon" href="RobotCar.jpg"> 
+</head>
 
-You can use the [editor on GitHub](https://github.com/sz95/ECE3400Team26/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!--<div class="menu">
+  <a href="index.html" class="current">Home</a>
+  <a href="about.html" class="drop-button">About</a>
+    <div class="drop-menu">
+      <a href="about.html">Logistics</a>
+      <a href="about.html">Team Contract</a>
+      <a href="about.html">Meeting Minutes</a>
+      <a href="about.html">Members</a>
+    </div>
+  <a href="assignments.html">Assignments</a>
+  <a href="tutorials.html">Tutorials</a>
+  <a href="contact.html">Contact</a>
+</div> -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Us
 
-### Markdown
+We're Team 26, most likely the best team of 2018!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This team is a part of The ECE 3400 Lab Section 402 at Cornell University.
 
-```markdown
-Syntax highlighted code block
+See how we're spending time on our [Team Minutes Page](Mnutes.md)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+##### Members: <br>
+Siming Zou <br>
+Vini Tripathii <br>
+Priya Kattappurath <br>
+Albert Tsao <br>
+Nathalia Lie <br>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+![Earth, Wind and Wire](IMG_4980.jpg)
 
-[Link](url) and ![Image](src)
-```
+<!--<div style="text-align: center">
+<img alt="Earth, Wind and Wire" src="IMG_4980.jpg"/>
+</div> -->
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The members of this group are bound by the [Team Contract](Contract.md).
 
-### Jekyll Themes
+## Website Sessions:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sz95/ECE3400Team26/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[1. Milestones](milestones.md)  
+[2. Labs](labsessions.md)  
+[3. Final Design](Final_Design.md)
